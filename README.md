@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 Hi there, I'm Ayushi Singh 👋<br><br>## About Me<br>I'm a Data Science enthusiast with a passion for Machine Learning, Deep Learning, and Data Visualization. Currently pursuing my degree in Data Science, I'm excited to share my projects and learnings on GitHub.
 
 
